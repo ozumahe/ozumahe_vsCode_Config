@@ -1,0 +1,15 @@
+Auto Rename Tag
+Bracket Pair Colorizer
+CodeSnap
+Emmet Live
+ES7 React/Redux/GraphQL/React-Native snippets
+Go
+Highlight Matching Tag
+indent-rainbow
+JavaScript (ES6) code snippets
+Live Server
+Markdown All in One
+Material Icon Theme
+Prettier - Code formatter
+vscode-icons
+advanced-new-file
