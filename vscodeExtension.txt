@@ -13,3 +13,5 @@ Material Icon Theme
 Prettier - Code formatter
 vscode-icons
 advanced-new-file
+Tailwind css
+Better comment
