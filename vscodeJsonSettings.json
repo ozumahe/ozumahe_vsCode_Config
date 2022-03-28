@@ -101,11 +101,11 @@
     }
   ],
   "window.zoomLevel": 2,
+  "css.validate": false,
   "tailwindCSS.includeLanguages": {
     "plaintext": "html"
   },
   "editor.quickSuggestions": {
     "strings": true
-  },
-  "css.validate": false
+  }
 }
