@@ -6,3 +6,5 @@ millify
 
 moment
 
+React Image Magnify
+--to zoom image on hover
