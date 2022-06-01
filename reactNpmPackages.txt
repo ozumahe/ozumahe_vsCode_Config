@@ -7,4 +7,6 @@ millify
 moment
 
 React Image Magnify
+link: https://ethanselzer.github.io/react-image-magnify/#/
+npm: npm i react-image-magnify
 --to zoom image on hover
