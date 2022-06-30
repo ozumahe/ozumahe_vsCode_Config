@@ -10,3 +10,15 @@ React Image Magnify
 link: https://ethanselzer.github.io/react-image-magnify/#/
 npm: npm i react-image-magnify
 --to zoom image on hover
+
+
+
+React Spinner 
+name: Spinner React
+npm: npm i spinners-react
+
+
+React Toast 
+name : ract toastify
+$ npm install --save react-toastify
+$ yarn add react-toastify
