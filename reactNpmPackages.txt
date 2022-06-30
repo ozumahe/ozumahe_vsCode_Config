@@ -19,6 +19,7 @@ npm: npm i spinners-react
 
 
 React Toast 
+Link: https://fkhadra.github.io/react-toastify/introduction/
 name : ract toastify
 $ npm install --save react-toastify
 $ yarn add react-toastify
