@@ -100,12 +100,13 @@
       "italic": false
     }
   ],
-  "window.zoomLevel": 2,
   "css.validate": false,
   "tailwindCSS.includeLanguages": {
     "plaintext": "html"
   },
   "editor.quickSuggestions": {
     "strings": true
-  }
+  },
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "npm.keybindingsChangedWarningShown": true
 }
